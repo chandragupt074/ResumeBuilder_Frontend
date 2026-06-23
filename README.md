@@ -7,7 +7,6 @@ Spring Boot Resume Builder API.
 
 ```bash
 npm install
-cp .env.example .env   # add your Razorpay key if you have one
 npm run dev
 ```
 
