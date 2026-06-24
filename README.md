@@ -3,6 +3,12 @@
 React + Tailwind + Redux Toolkit + React Router + Axios frontend for the
 Spring Boot Resume Builder API.
 
+![Signup/Login Page](https://github.com/chandragupt074/ResumeBuilder_Frontend/blob/5bff561b6dcfe7584254e8155de8ab8f773daf49/Screenshot%202026-06-24%20014642.png)
+![Resume Creater Page](https://github.com/chandragupt074/ResumeBuilder_Frontend/blob/5bff561b6dcfe7584254e8155de8ab8f773daf49/Screenshot%202026-06-24%20173311.png)
+
+![Payment page](https://github.com/chandragupt074/ResumeBuilder_Frontend/blob/5bff561b6dcfe7584254e8155de8ab8f773daf49/Screenshot%202026-06-24%20173345.png)
+![Subscription plan](https://github.com/chandragupt074/ResumeBuilder_Frontend/blob/5bff561b6dcfe7584254e8155de8ab8f773daf49/Screenshot%202026-06-24%20173422.png)
+
 ## Setup
 
 ```bash
